@@ -1,34 +1,33 @@
 <div align="center">
 
-[🇪🇸 Español](README.md) · [🇬🇧 English](README.en.md)
+[🇬🇧 English](README.md) · [🇪🇸 Español](README.es.md)
 
 </div>
 
-<h1 align="center">Hola, soy Fernedy Arias 👋</h1>
+<h1 align="center">Hi, I'm Fernedy Arias 👋</h1>
 <h3 align="center">AI First · Tech Explorer</h3>
 
 <p align="center">
-  Diseño y construyo <b>sistemas de IA autónomos</b>: agentes que hacen trabajo real, no demos.<br/>
-  Exploro la frontera de los LLMs, la orquestación multi-agente y la infraestructura potenciada por IA.<br/>
-  <i>I design and ship autonomous AI systems — agents that do real work, not demos.</i>
+  I design and ship <b>autonomous AI systems</b> — agents that do real work, not demos.<br/>
+  Exploring the frontier of LLMs, multi-agent orchestration and AI-powered infrastructure.
 </p>
 
 ---
 
-### 🧠 Qué estoy construyendo
+### 🧠 What I'm building
 
-- 🏢 **[Spec Nimbus](https://specnimbus.com)** — Una agencia de ventas con IA con puertas humanas en el bucle: aterrizajes spec-first, demostraciones reales, circuito comercial autónomo.
-- 🤖 **[Autonomous Mail Agent](https://github.com/fernedy/autonomous-mail-agent)** — Agente de correo distribuido y dirigido por eventos: enrutamiento multi-proveedor de LLMs, colas Redis, Microsoft Graph, observabilidad con Prometheus + Grafana. Lee, razona y responde correo corporativo por sí solo.
-- ✨ **[repo-glow](https://github.com/fernedy/repo-glow)** — Audita la presentación de tu repositorio y obtén un **Glow Score 0–100**. Cero dependencias, badges compartibles. Haz que tus repos brillen.
-- 🛡️ **[FTG Log Parser](https://github.com/fernedy/FTG_Log_Parser)** — Logs de firewall FortiGate → CSV limpio en segundos, para equipos de red que viven en los datos.
-- 🔐 **[Password Generator](https://github.com/fernedy/Password_generator)** — Generador de contraseñas criptográficamente seguro, solo stdlib (módulo `secrets`).
+- 🏢 **[Spec Nimbus](https://specnimbus.com)** — An AI sales agency with human-in-the-loop gates: spec-first landings, real demos, autonomous commercial loop.
+- 🤖 **[Autonomous Mail Agent](https://github.com/fernedy/autonomous-mail-agent)** — A distributed, event-driven email agent: multi-provider LLM routing, Redis queues, Microsoft Graph, Prometheus + Grafana observability. It reads, reasons and replies to corporate email on its own.
+- ✨ **[repo-glow](https://github.com/fernedy/repo-glow)** — Audit your repository presentation and get a **Glow Score 0–100**. Zero dependencies, shareable badges. Make your repos shine.
+- 🛡️ **[FTG Log Parser](https://github.com/fernedy/FTG_Log_Parser)** — FortiGate firewall log → clean CSV, for network teams that live in data.
+- 🔐 **[Password Generator](https://github.com/fernedy/Password_generator)** — Cryptographically secure password generator, stdlib only (`secrets` module).
 
-### 🔭 Mis principios
+### 🔭 My principles
 
-- **AI First:** en cada flujo de trabajo me pregunto «¿qué haría un agente aquí?»
-- **Mentalidad de explorador:** construir, medir, iterar — la frontera se aprende construyendo.
-- **Humano en el bucle:** autonomía con puertas de control. Los agentes actúan, los humanos aprueban.
-- **Cero dependencias cuando sea posible:** ingeniería stdlib-first.
+- **AI First:** every workflow I touch, I ask "what would an agent do here?"
+- **Explorer mindset:** ship, measure, iterate — the frontier is learned by building.
+- **Human in the loop:** autonomy with control gates. Agents act, humans approve.
+- **Zero-dependency when possible:** stdlib-first engineering.
 
 ### 🛠️ Stack
 
@@ -36,8 +35,8 @@
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></a>
   <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/></a>
-  <img src="https://img.shields.io/badge/Orquestaci%C3%B3n_LLM-8A2BE2?style=flat-square" alt="Orquestación LLM"/>
-  <img src="https://img.shields.io/badge/Agentes_IA-00A884?style=flat-square" alt="Agentes IA"/>
+  <img src="https://img.shields.io/badge/LLM_Orchestration-8A2BE2?style=flat-square" alt="LLM Orchestration"/>
+  <img src="https://img.shields.io/badge/AI_Agents-00A884?style=flat-square" alt="AI Agents"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
@@ -53,8 +52,8 @@
 ---
 
 <p align="center">
-  📫 Contáctame: <a href="mailto:fernedy.arias@gmail.com">fernedy.arias@gmail.com</a>
+  📫 Reach me: <a href="mailto:fernedy.arias@gmail.com">fernedy.arias@gmail.com</a>
   · 🌐 <a href="https://specnimbus.com">specnimbus.com</a>
 </p>
 
-<p align="center"><i>«El futuro es de quienes construyen con AI first, y exploran más allá de la documentación.» ⚡</i></p>
+<p align="center"><i>"The future belongs to those who build with AI first, and explore beyond the docs." ⚡</i></p>
