@@ -19,6 +19,8 @@
 - 🏢 **[Spec Nimbus](https://specnimbus.com)** — Una agencia de ventas con IA con human-in-the-loop: landings spec-first, demos reales, circuito comercial autónomo.
 - 🤖 **[Autonomous Mail Agent](https://github.com/fernedy/autonomous-mail-agent)** — Agente de correo distribuido y dirigido por eventos: enrutamiento multi-proveedor de LLMs, colas Redis, Microsoft Graph, observabilidad con Prometheus + Grafana. Lee, razona y responde correo corporativo por sí solo.
 - ✨ **[repo-glow](https://github.com/fernedy/repo-glow)** — Audita la presentación de tu repositorio y obtén un **Glow Score 0–100**. Cero dependencias, badges compartibles. Haz que tus repos brillen.
+- ⚰️ **[container-autopsy](https://github.com/fernedy/container-autopsy)** — Forense de contenedores Docker muertos: exit codes, OOM y evidencia de logs → un informe de autopsia en markdown, con segunda opinión de IA local opcional. Cero dependencias.
+- 🕯️ **[death-noticer](https://github.com/fernedy/death-noticer)** — Tus contenedores mueren a las 3 AM. Alguien debería notarlo. Un sidecar Docker siempre encendido que escribe obituarios de los contenedores muertos y los publica en Slack/Discord.
 - 🛡️ **[FTG Log Parser](https://github.com/fernedy/FTG_Log_Parser)** — Logs de firewall FortiGate → CSV limpio en segundos, para equipos de red que viven en los datos.
 - 🔐 **[Password Generator](https://github.com/fernedy/Password_generator)** — Generador de contraseñas criptográficamente seguro, solo stdlib (módulo `secrets`).
 
