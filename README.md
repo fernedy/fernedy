@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">Hi, I'm Fernedy Arias 👋</h1>
+<h1 align="center">Hi, I'm Darlyn Fernedy 👋</h1>
 <h3 align="center">AI First · Tech Explorer</h3>
 
 <p align="center">
